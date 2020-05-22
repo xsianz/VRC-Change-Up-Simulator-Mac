@@ -8,7 +8,7 @@ DISCLAIMER: I have not personally tested this yet as I do not have a Mac. Follow
 1. Download and unzip the file
 2. Use terminal to navigate to the Contents/MacOS/ directory:<br/>
 `cd <PATH TO DIRECTORY CONTAINING THE UNZIPPED FILE>/VRC Change Up (Build 0dc) - Mac OS X.app/Contents/MacOS/`
-3. Use chmod to make the file inside executable
+3. Use chmod to make the file inside executable </br>
 `chmod +x <VRC Change Up (Build 0dc)>`
 
 (This solution was obtained from the stackoverflow question [here](https://stackoverflow.com/questions/50577473/unity-game-compiled-in-windows-doesn-t-open-in-mac))
